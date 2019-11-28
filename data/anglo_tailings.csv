@@ -1,0 +1,99 @@
+﻿company_name,managing_company,business_unit,country,operation,latitude,longditude,status,start_date,operation_status_as_designed,raising_method,current_maximum,current_tailings,planned_tailings,last_review,full_records_available,failure_hazard,previous_instability,failure_impact_assessment
+Anglo American,De Beers Group of Companies,De Beers,Canada,Gahcho Kué,63.463619,-109.211752,Active,2016,Yes,Downstream,11.5,3.5,6.88,2018,Yes,High,No,"Yes, 2016"
+Anglo American,De Beers Group of Companies,De Beers,Canada,Gahcho Kué,63.443218,-109.182952,Active,2016,Yes,Dry stack,20,2.9,5.59,2018,Yes,High,No,"Yes, 2016"
+Anglo American,De Beers Group of Companies,De Beers,Canada,Victor,52.823067,-83.9387,Active,2008,Yes,Downstream,8,7.4,7.4,2018,Yes,Low,No,"Yes, 2004"
+Anglo American,De Beers Group of Companies,De Beers,Canada,Victor,52.810581,-83.906339,Active,2008,Yes,Dry stack,12,5.94,5.94,2018,Yes,Low,No,"Yes, 2004"
+Anglo American,De Beers Group of Companies,De Beers,Canada,Victor,52.807844,-83.920369,Active,2008,Yes,Dry stack,14,5.4,5.4,2018,Yes,Low,No,"Yes, 2004"
+Anglo American,De Beers Group of Companies,De Beers,Canada,Snap Lake,63.605278,-110.866667,Inactive,2008,Yes,Other,22,3.94,3.94,2018,Yes,Low,No,"Yes, 2014, updated 2018 Yes, Yes 2019"
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Venetia,-22.42825,29.298342,Active,1992,Yes,Other,42.5,55.8,74.6,2018,Yes,High,Yes,
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Venetia,-22.449539,29.304022,Active,1992,Yes,Dry stack,42,16.4,29,2018,Yes,High,No,"Yes, See Q20 for more
+information"
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Voorspoed,-27.388258,27.200122,Inactive,2008,Yes,Downstream,28,5.6,5.6,2018,Yes,Moderate,Yes,information
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Voorspoed,-27.384761,27.183719,Inactive,2008,Yes,Dry stack,40,9,9,2018,Yes,Low,No,"Yes, See Q20 for more
+information"
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Namaqualand,-29.647064,17.044575,,1972,No,Downstream,27,29,29,2013,No,Major,Yes,
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Namaqualand,-29.647064,17.044575,,1972,No,Dry stack,51,11.1,11.1,2013,No,Low,"No,",
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Namaqualand,-29.589625,17.034189,,1975,No,Other,,,,2013,No,,No,
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Namaqualand,-29.5866,17.041478,,1975,No,Dry stack,34,2.6,2.6,2013,No,Low,No,
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Namaqualand,-29.45615,17.001442,,1980,No,Downstream,8.5,23,23,2013,,Moderate,Yes,
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Namaqualand,-29.452642,17.021789,,1980,No,Dry stack,66,16,16,2013,No,Low,No,
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Oaks,-22.956047,28.311392,,1998,Yes,Downstream,20,0.5,0.5,2013,No,Low,No,
+Anglo American,De Beers Group of Companies,De Beers,South Africa,Oaks,-22.955883,28.312397,more information,1998,Yes,Downstream,20,1.04,1.04,2013,No,Low,No,information
+Anglo American,Anglo Coal,Coal Aus,Australia,Moranbah North,-21.872,147.948,Active,1998,Yes,Upstream,34,,,2013,Yes,High,Yes,"Yes, 2019"
+Anglo American,Anglo Coal,Coal Aus,Australia,CapCoal,-22.922,148.57,Active,2013,Yes,Other,14,,,2018,Yes,High,No,
+Anglo American,Anglo Coal,Coal Aus,Australia,CapCoal,-22.962,148.552,Inactive,2005,No,Other,30,30,,2018,No,High,No,"Yes, CCS completed"
+Anglo American,Anglo Coal,Coal Aus,Australia,CapCoal,-22.95,148.566,Inactive,2005,No,Other,34,550,,2018,No,High,No,"Yes, CCS completed"
+Anglo American,Anglo Coal,Coal Aus,Australia,CapCoal,-22.888,148.566,Inactive,2009,No,Other,22,695,,2018,No,High,No,"Yes, CCS completed"
+Anglo American,Anglo Coal,Coal Aus,Australia,CapCoal,-22.888,148.566,Inactive,2009,No,Other,34,3204,,2018,No,High,No,"Yes, CCS completed"
+Anglo American,Anglo Coal,Coal Aus,Australia,CapCoal,-22.965,148.56,,2019,Yes,Other,,0,,2019,No,High,No,"Yes, CCS completed"
+Anglo American,Anglo Coal,Coal Aus,Australia,Dawson,-24.563,150.051,Active,2015,Yes,Other,,710,,,Yes,Moderate,No,CCA as well as CCS
+Anglo American,Anglo Coal,Coal Aus,Australia,Dawson,-24.5,179.604,Inactive,2011,No,Other,,1800,,2018,No,Low,No,CCA as well as CCS
+Anglo American,Anglo Coal,Coal Aus,Australia,Dawson,-24.55,150.038,Inactive,2003,No,Other,,,2111,2018,No,Moderate,No,"Yes, REMP 2018/2019.
+CCA as well as CCS
+completed"
+Anglo American,Anglo Coal,Coal Aus,Australia,Dawson,-24.55,150.038,Inactive,2010,No,Other,,,121,2018,No,Moderate,No,CCA as well as CCS
+Anglo American,Anglo Coal,Coal Aus,Australia,Dawson,-24.557,150.059,Inactive,1995,No,Other,,,1070,2018,No,Moderate,No,CCA as well as CCS
+Anglo American,Anglo Coal,Coal Aus,Australia,Dawson,-24.556,150.055,Inactive,2002,No,Other,,,855,2018,No,Low,No,CCA as well as CCS
+Anglo American,Anglo American,Copper,Chile,Los Bronces,-33.223056,-70.343889,,1950,Yes,Downstream,,50,35,2019,Yes,High,Yes,"Yes, 2015-2019"
+Anglo American,Anglo American,Copper,Chile,Los Bronces,-33.123889,-70.732222,Active,1994,Yes,Downstream,,480,700,2018,Yes,High,No,"Yes, 2015-2019"
+Anglo American,Anglo American,Copper,Chile,El Soldado,-32.664167,-71.147222,,1960,Yes,Landform,25,3.3,3.3,2018,No,High,Yes,No
+Anglo American,Anglo American,Copper,Chile,El Soldado,-32.669444,-71.144167,Inactive,1965,Yes,Downstream,20,1,1,2018,No,Moderate,No,No
+Anglo American,Anglo American,Copper,Chile,El Soldado,-32.658611,-71.165278,Inactive,1970,Yes,Downstream,65,53,53,2018,Yes,High,No,"Main wall 2015, back"
+Anglo American,Anglo American,Copper,Chile,El Soldado,-32.640556,-71.162222,Active,1993,Yes,Centreline,91,130,160,2018,Yes,,Yes,"Yes, 2015, 2018"
+Anglo American,Anglo American,Copper,Chile,Chagres,-32.802778,-70.955,Active,1960,Yes,Dry Stack,25,,"861,435 1,0",2018,Yes,Low,No,
+Anglo American,Anglo American,Iron Ore,Brazil,Minas Rio,-18.860833,-43.404722,Active,2014,Yes,Downstream,41.5,43,aprox. 135(2024),2018,Yes,High,No,"Yes, 2016"
+Anglo American,Anglo American,Nickel,Brazil,Codemin,-14.149444,-48.341944,Active.,1982,Yes,Other,10,,"487,891 ~ 500,000. (See Q. 20)",2018,Yes,Low,No.,and there is no
+Anglo American,Anglo American,Nickel,Brazil,Codemin,-14.147222,-48.341944,Active.,1982,Yes,Other,10.4,,"128,596 ~130,000 (See Q. 20)",2018,Yes,Low,No,and there is no
+Anglo American,Anglo American,Nickel,Brazil,Codemin,-14.153611,-48.343333,Active.,1990,Yes,Other,5.3,,"43,445 ~43,000 (see Q. 20)",2018,Yes,Low,No,additional information
+Anglo American,Anglo American,Nickel,Brazil,Codemin,-14.151111,-48.345556,Inactive,1975,No,Dry Stack,45,3.5,0,2017,No,Moderate,No,
+Anglo American,Anglo American,Nickel,Brazil,Codemin,-14.157222,-48.343333,Active.,2002,No,Dry Stack,60,3.8,2,2017,Yes,High,No,
+Anglo American,Anglo American,Nickel,Brazil,Barro Alto,-15.089444,-48.338056,Active.,2009,Yes,Dry Stack,80,7.4,1.26,2018,Yes,High,No,"No. See Q20 for
+additional information"
+Anglo American,Kumba Iron Ore,Bulk Commodities,South Africa,Sishen,-27.742722,23.040444,Active,1978,Yes,Upstream,18,38m3,46.5m 3,,Yes,High,No,"Yes, See Q20 for"
+Anglo American,Kumba Iron Ore,Bulk Commodities,South Africa,Sishen,-27.761917,22.979361,Inactive,,No,Upstream,2.5,Not available,0m3,,No,Moderate,No,"No, See Q20 for"
+Anglo American,Kumba Iron Ore,Bulk Commodities,South Africa,Sishen,-27.774861,22.967306,Inactive,,No,Upstream,4,Not available,0m3,,No,Low,No,"No, See Q20 for"
+Anglo American,Kumba Iron Ore,Bulk Commodities,South Africa,Kolomela,-28.380694,22.946056,Active,2011,Yes,Water Retaining,9.8,0.053m3,0.11m 3,,Yes,Moderate,No,"Yes, See Q20 for"
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-25.959167,29.453167,Active,1982,Yes,Other,59.5,*24.3 coarse; 7.01,30.27 coarse; 9.08,2013,Yes,High,No,"Yes, Q4 2018"
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-26.0045,29.455,Closed,1948,Yes,Other,36,3,3,2012,Yes,High,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-25.9845,29.439833,Closed,1953,Yes,Dry Stack,31,0.7,0.7,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-26.090167,29.423833,Active,1982,Yes,Downstream,54,*18.2coarse; 9.8,21.04coarse; 10.55,2013,Yes,High,No,"Yes, Q4 2018"
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-26.085667,29.492333,Closed,1952,Yes,Dry Stack,39,2.5,2.5,2012,Yes,Moderate,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-26.088333,29.334667,Closed,1973,Yes,Dry Stack,13,1.25,1.25,2012,Yes,Moderate,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-26.041833,29.305333,Closed,1982,Yes,Dry Stack,14,0.5,0.5,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-26.102667,29.411833,Active,1995,No,Downstream,6,0.13,0.13,2012,No,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Goedehoop,-26.118833,29.392167,Closed,1967,Yes,Other,28,6.9,6.9,2012,Yes,Moderate,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-25.986667,29.207333,Active,1982,Yes,Other,37.1,*24.92coarse;,33.1coarse; 15.74,2013,Yes,High,No,"Yes, Q4 2018"
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-25.920333,29.186,Inactive,1915,Yes,Dry Stack,2,0.2,0.2,2011,No,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-25.920167,29.204167,Inactive,1970,No,Dry Stack,24,2,2,2011,No,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-25.937667,29.208167,Active,1975,Yes,Drystack,45,10,5,2011,Yes,Moderate,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-26.020667,29.395667,Closed,1982,Yes,Downstream,5,3,3,2010,No,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-26.034167,29.412167,Closed,1982,Yes,Downstream,5,3,3,2010,No,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-26.019667,29.2195,Active,1982,Yes,Dry stack,46,13.1,0,2010,Yes,Moderate,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-25.906833,29.157,Inactive,1897,No,Dry stack,36,5.7,5.7,2011,No,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-25.934333,29.142667,Inactive,1919,No,Dry stack,22,0.18,0.18,2011,No,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Khwezela,-25.923333,29.1535,Active,1982,Yes,Downstream,50,*23.82coarse;,32.04coarse; 15.72,2013,Yes,High,No,"Yes, Q4 2018"
+Anglo American,Anglo Operations,Coal SA,South Africa,Greenside,-25.956833,29.1855,Active,1998,Yes,Other,64.4,*30.2coarse; 7.1,36.14coarse; 7.1,2011,Yes,High,No,"Yes, Q4 2018"
+Anglo American,Anglo Operations,Coal SA,South Africa,Greenside,-25.941333,29.156667,Inactive,1998,No,Dry Stack,10,0.1,0.1,2008,No,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Mafube,-25.805833,29.7525,Active,2008,Yes,Dry Stack,29.7,3.84coarse,8.53coarse,2008,Yes,Moderate,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Mafube,-25.805833,29.754667,Active,2008,No,Dry Stack,25,4.5,"Nil (reclaimed or
+incorporated into
+discards dump)",,No,High,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Vryheid Coronation,-27.669833,31.053333,Closed,1960,Yes,Dry Stack,20,1.25,1.25,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Vryheid Coronation,-27.673,31.041,Closed,1960,Yes,Dry Stack,40,1.25,1.25,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Vryheid Coronation,-27.669,31.071667,Closed,1960,Yes,Dry Stack,36,1.7,1.7,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Vryheid Coronation,-27.6685,31.074667,Closed,1960,Yes,Dry Stack,20,3.75,3.75,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Natal Anthracite,-27.805167,31.103333,Closed,1960,Yes,Dry Stack,42,0.7,0.7,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Ingagane Colliery,-27.870333,30.0405,Closed,1960,Yes,Dry Stack,18,0.51,0.51,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Ingagane Colliery,-27.867333,30.038833,Closed,1960,Yes,Dry Stack,8,0.1,0.1,2012,Yes,Low,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Middelburg Steam & Station,-25.852333,29.19,Inactive,1998,No,Dry Stack,10,0.2,0.2,2011,No,High,No,No
+Anglo American,Anglo Operations,Coal SA,South Africa,Middelburg Steam & Station,-25.853667,29.186167,Inactive,1998,No,Dry Stack,20,0.4,0.4,2011,No,High,No,No
+Anglo American,Rustenburg Platinum,Platinum,South Africa,Amandelbult,-24.80972,27.34895,Active,1976,Yes,Upstream,49,103,138.5,2018,No,High,Yes,No
+Anglo American,Rustenburg Platinum,Platinum,South Africa,Mogalakwena,-23.95692,28.9394,Active,2011,Yes,Downstream,56.8,37.5 63.4,,2016,Yes,High,No,No
+Anglo American,Rustenburg Platinum,Platinum,South Africa,Mogalakwena,-23.98747,28.92651,Active,1992,No,Upstream,47.9,69.5m,79.6m,2016,Yes,High,Yes,Yes
+Anglo American,Rustenburg Platinum,Platinum,South Africa,Mototolo,-25.01605,30.11316,Active,2006,Yes,Upstream,58,14,Planned closure in,2018,Yes,High,Yes,Yes
+Anglo American,Rustenburg Platinum,Platinum,South Africa,Mototolo,-25.01143,30.14734,Active,2018,Yes,Upstream,4,",076",5.55,2018,Yes,High,No,Yes
+Anglo American,Unki Mines,Platinum,Zimbabwe,Unki,-19.62417,30.07222,Active,2010,No,Hybrid,24,7.9,14.7,2017,No,High,Yes,Yes
+Anglo American,Rustenburg Platinum,Platinum,South Africa,Polokwane Smelter,-24.033458,29.4659,Active,2003,Yes,Dry stack,38,3.3,5,2018,Yes,Low,No,
+Anglo American,Rustenburg Platinum,Platinum,South Africa,Mortimer Smelter,-24.968333,27.144167,Active,1973,Yes,Dry stack,28,1.6,1.8,2016,Yes,Low,No,Yes
+Anglo American,Unki Mines,Platinum,Zimbabwe,Unki,-19.613694,30.097567,Active,2018,Yes,Dry stack,2018,0.01,0.13,2018,Yes,Low,No,Yes
+,,,,,,,,,,,,,,,,,,
